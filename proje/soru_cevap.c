@@ -182,7 +182,7 @@ void soru_cevap(char karakter[max_satir][max_sutun]){
 
             do{
 
-                printf("Ne siklikla sigara icersin\n");
+                printf("Ne siklikla sigara icersin?\n");
                 printf("1-) Haftada 1 paketten az\n");
                 printf("2-) Haftada 2-4 paket\n");
                 printf("3-) Haftada 5-7 paket\n");
@@ -304,7 +304,7 @@ void soru_cevap(char karakter[max_satir][max_sutun]){
 
                 system("cls");
 
-                printf("Ne siklikla alkol tuketirsin\n");
+                printf("Ne siklikla alkol tuketirsin?\n");
                 printf("1-) Ayda 1-2 defa\n");
                 printf("2-) Haftada 1-2 defa\n");
                 printf("3-) Her gun\n");
